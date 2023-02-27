@@ -1,0 +1,6 @@
+2021-07-19 13:29:47,765 - C:/Users/Administrator/PycharmProjects/CodeView/Day07/logutils.py[line:42] - CRITICAL: 严重
+2021-07-19 13:30:50,128 - C:/Users/Administrator/PycharmProjects/CodeView/Day07/logutils.py[line:38] - DEBUG: debug
+2021-07-19 13:30:50,128 - C:/Users/Administrator/PycharmProjects/CodeView/Day07/logutils.py[line:39] - INFO: info
+2021-07-19 13:30:50,128 - C:/Users/Administrator/PycharmProjects/CodeView/Day07/logutils.py[line:40] - WARNING: 警告
+2021-07-19 13:30:50,128 - C:/Users/Administrator/PycharmProjects/CodeView/Day07/logutils.py[line:41] - ERROR: 报错
+2021-07-19 13:30:50,128 - C:/Users/Administrator/PycharmProjects/CodeView/Day07/logutils.py[line:42] - CRITICAL: 严重
